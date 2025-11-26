@@ -1,0 +1,8 @@
+{
+  "name": "GroupChat",
+  "description": "Secure private community with admin approval, voice messaging, and media sharing.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
